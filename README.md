@@ -1,58 +1,58 @@
 data/data_0.csv
 -------------------------------
-Not Laundering:  83987  
-Is  Laundering:  145
+Not Laundering:  216545
+Is  Laundering:  260
 
 
 data/data_1.csv
 -------------------------------
-Not Laundering:  73839  
-Is  Laundering:  217
+Not Laundering:  225770
+Is  Laundering:  418
 
 
 data/data_2.csv
 -------------------------------
-Not Laundering:  71118  
-Is  Laundering:  264
+Not Laundering:  225047
+Is  Laundering:  512
 
 
 data/data_3.csv
 -------------------------------
-Not Laundering:  60974  
-Is  Laundering:  287
+Not Laundering:  209040
+Is  Laundering:  552
 
 
 data/data_4.csv
 -------------------------------
-Not Laundering:  58525  
-Is  Laundering:  287
+Not Laundering:  204587
+Is  Laundering:  573
 
 
 data/data_5.csv
 -------------------------------
-Not Laundering:  58697  
-Is  Laundering:  23
+Not Laundering:  142664
+Is  Laundering:  43
 
 
 data/data_6.csv
 -------------------------------
-Not Laundering:  48938  
-Is  Laundering:  56
+Not Laundering:  125030
+Is  Laundering:  144
 
 
 data/data_7.csv
 -------------------------------
-Not Laundering:  47957  
-Is  Laundering:  92
+Not Laundering:  133145
+Is  Laundering:  164
 
 
 data/data_8.csv
 -------------------------------
-Not Laundering:  47842  
-Is  Laundering:  18
+Not Laundering:  118129
+Is  Laundering:  35
 
 
 data/data_9.csv
 -------------------------------
-Not Laundering:  47494  
-Is  Laundering:  76
+Not Laundering:  124818
+Is  Laundering:  140
